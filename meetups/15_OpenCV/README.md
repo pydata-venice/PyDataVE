@@ -5,9 +5,8 @@
 Se vuoi provare a riprodurre l'esempio descritto nelle [slide](PyDataVenice15.Alessandra.Bilardi.pdf), puoi usare i comandi che seguono.
 
 ```sh
-git clone https://github.com/bilardi/real-time-face-recognition.git
+git clone https://github.com/medsriha/real-time-face-recognition.git
 cd real-time-face-recognition
-git checkout -t origin/improvements
 pip3 install -r requirements.txt
 python3 face_taker.py
 python3 face_train.py
