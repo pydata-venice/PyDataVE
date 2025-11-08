@@ -11,4 +11,5 @@ Then 🗣 Claudio Giancaterino, with whom we’ll explore the integration of adv
 ## Materials
 
 * slides: [GraphRAG](https://slides.com/davidepoggiali-1/graphrag) & [AI in finance](PyDataVenice23.Claudio.Giancaterino.pdf)
+* [huggingface app](https://huggingface.co/spaces/towardsinnovationlab/stock_market_analysis_and_forecast)
 * [video](https://www.youtube.com/watch?v=_1ApTJuY-68)
